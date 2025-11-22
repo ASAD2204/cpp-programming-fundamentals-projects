@@ -201,9 +201,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**ASAD**
+**Muhammad Asad**
 - GitHub: [@ASAD2204](https://github.com/ASAD2204)
-- Portfolio: [Your Portfolio Link]
 
 ## ⭐ Show Your Support
 
@@ -213,7 +212,7 @@ If you found this project helpful, please give it a ⭐ star!
 
 For any questions or suggestions, feel free to reach out:
 - Open an issue on GitHub
-- Email: [Your Email]
+- Email: asadrafaqat2021@gmail.com 
 
 ---
 
@@ -225,8 +224,8 @@ Made with ❤️ for learning and sharing knowledge
 
 **Course**: Programming Fundamentals  
 **Semester**: 2nd Semester  
-**Program**: BS IT  
-**Year**: 2025
+**Program**: BS IT (.Hons) 
+**Session**: 2022-2026
 
 ---
 
